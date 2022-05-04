@@ -1,0 +1,24 @@
+MainTitleBarWidget {
+  background-color: #2E9AFE;
+}
+
+QToolButton#titleLeftIcon {
+  margin-left: 20px;
+  margin-right: 10px;
+  border: 0;
+  background-color: #2E9AFE;
+}
+
+QLabel#titleLeftLabel {
+  color: #FFFFFF;
+}
+
+QToolButton#menuBtn, QToolButton#minBtn, QToolButton#maxBtn, QToolButton#closeBtn {
+  margin-left: 18px;
+  border: 0;
+  background-color: #2E9AFE;
+}
+
+QToolButton#closeBtn {
+  margin-right: 20px;
+}

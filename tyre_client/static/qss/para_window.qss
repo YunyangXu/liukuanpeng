@@ -1,0 +1,188 @@
+QWidget#paraMainPanel, QWidget#paraForm, QWidget#tablePanel {
+  background-color: #FFFFFF;
+}
+
+QScrollArea {
+  border: 0;
+  background-color: #FFFFFF;
+}
+
+QScrollBar:vertical {
+  border: none;
+  background: #f5f5f7;
+  width: 5px;
+  margin: 0px 0 0px 0;
+}
+
+QScrollBar::handle:vertical {
+  background: Gainsboro;
+  min-height: 20px;
+  border: none;
+}
+
+QScrollBar::add-line:vertical {
+  border: 0px solid grey;
+  background: #32CC99;
+  height: 0px;
+  subcontrol-position: bottom;
+  subcontrol-origin: margin;
+}
+
+QScrollBar::sub-line:vertical {
+  border: 0px solid grey;
+  background: #32CC99;
+  height: 0px;
+  subcontrol-position: top;
+  subcontrol-origin: margin;
+}
+
+QScrollBar::add-page:vertical, QScrollBar::sub-page:vertical {
+  background: none;
+  width: 0px;
+  height: 0px;
+}
+
+QWidget[paraTitle='true'] {
+  border-bottom: 3px solid #F2F2F2;
+}
+
+QLabel[paraTitleLabel='true'] {
+  font-family: 'Microsoft YaHei';
+  font-size: 20px;
+  color: #2E9AFE;
+  text-align: center;
+}
+
+QLabel[paraLabel='true'] {
+  font-family: 'Microsoft YaHei';
+  font-size: 18px;
+  color: #A4A4A4;
+}
+
+QLineEdit[paraEdit='true'], QComboBox, QCheckBox {
+  margin-right: 10px;
+  padding: 6px;
+  border: 1px solid #D8D8D8;
+  font-family: 'Microsoft YaHei';
+  font-size: 18px;
+}
+
+QLineEdit[err='true'] {
+  border-color: red;
+}
+
+QCheckBox {
+  border: 0;
+}
+
+QCheckBox::indicator {
+  margin-top: 2px;
+  margin-right: 6px;
+  padding: 0;
+  width: 20px;
+  height: 20px;
+  background-color: #FFFFFF;
+}
+
+QCheckBox::indicator:unchecked {
+  image: url('static/icons/unchecked.svg')
+}
+
+QCheckBox::indicator:checked {
+  image: url('static/icons/checked.svg')
+}
+
+QComboBox::drop-down {
+  width: 16px;
+  background-color: #FFFFFF;
+}
+
+QComboBox::down-arrow {
+  margin-right: 10px;
+  padding: 0;
+  width: 16px;
+  background: transparent;
+  image: url('static/icons/arrow-down.svg')
+}
+
+QComboBox:hover {
+  border-color: #2E9AFE;
+}
+
+QComboBox QAbstractItemView {
+  border: 1px solid #A4A4A4;
+  background-color: #FFFFFF;
+  selection-background-color: #2E9AFE;
+}
+
+QWidget#illustrationPanel, QWidget#actionLabel {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #F2F2F2;
+}
+
+QLabel#illustrationLabel, QLabel#actionLabel {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-family: 'Microsoft YaHei';
+  font-size: 16px;
+  color: #A4A4A4;
+}
+
+QLabel#paraErrorLabel {
+  font-family: 'Microsoft YaHei';
+  font-size: 18px;
+  color: #E74C3C;
+}
+
+QPushButton#confirmBtn {
+  padding: 6px 20px;
+  border-radius: 3px;
+  border: 1px solid #2E9AFE;
+  background-color: #2E9AFE;
+  font-family: 'Microsoft YaHei';
+  font-size: 18px;
+  color: #FFFFFF;
+}
+
+QPushButton#confirmBtn:hover {
+  border: 1px solid #58ACFA;
+  background-color: #58ACFA;
+}
+
+QPushButton#closeBtn {
+  margin-left: 10px;
+  padding: 6px 20px;
+  border: 1px solid #D8D8D8;
+  border-radius: 3px;
+  background-color: #FFFFFF;
+  font-family: 'Microsoft YaHei';
+  font-size: 18px;
+  color: #727272;
+}
+
+QPushButton#closeBtn:hover {
+  background-color: #F5F5F5;
+}
+
+QTabWidget::pane {
+  border: 0;
+}
+
+QTabWidget::tab-bar {
+  color: red;
+}
+
+QTabBar::tab {
+  width: 280px;
+  height: 48px;
+  font-family: 'Microsoft YaHei';
+  font-size: 18px;
+  color: #A4A4A4;
+  background-color: #FFFFFF;
+}
+
+QTabBar::tab:selected {
+  border-bottom: 1px solid #2E9AFE;
+  color: #2E9AFE;
+}

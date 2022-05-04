@@ -1,0 +1,32 @@
+QWidget#imgInnerPanel {
+  background-color: #FFFFFF
+}
+
+QWidget#imgInnerTitle {
+  border-bottom: 1px solid #F0F0F0;
+}
+
+QToolButton#innerTitleIcon {
+  border: none;
+  background-color: #FFFFFF;
+}
+
+QLabel#innerTitleText {
+  font-size: 16px;
+  color: #727272;
+}
+
+QLabel#innerBodyLeftName, QLabel#innerBodyRightName {
+  color: #727272;
+}
+
+QLabel#innerBodyLeftTime {
+  color: #2E9AFE;
+}
+
+QLabel#innerBodyRightTime {
+  color: #088A29;
+}
+
+
+

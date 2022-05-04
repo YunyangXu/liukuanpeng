@@ -1,0 +1,25 @@
+SubTitleBarWidget {
+  border-bottom: 1px solid #E6E6E6;
+  background-color: #FFFFFF;
+}
+
+QToolButton#titleLeftIcon {
+  margin-left: 18px;
+  margin-right: 10px;
+  border: 0;
+  background-color: #FFFFFF;
+}
+
+QLabel#titleLeftLabel {
+  color: #727272;
+}
+
+QToolButton#menuBtn, QToolButton#minBtn, QToolButton#maxBtn, QToolButton#closeBtn {
+  margin-left: 18px;
+  border: 0;
+  background-color: #FFFFFF;
+}
+
+QToolButton#closeBtn {
+  margin-right: 18px;
+}

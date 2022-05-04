@@ -1,0 +1,30 @@
+QWidget#menuPanel {
+  background-color: #FFFFFF;
+}
+
+QWidget#panelSplit {
+  background-color: #F2F2F2;
+}
+
+QWidget[menuBtn='true'] {
+  background-color: #FFFFFF;
+}
+
+QWidget[menuBtn='true']:hover {
+  background-color: #F6F6F6;
+}
+
+QWidget[iconLabel='true'] {
+  padding-left: 5px;
+}
+
+QWidget[textLabel='true'], QLabel[panelShowLabel='true'] {
+  font-family: 'Microsoft YaHei';
+  font-size: 15px;
+  color: #727272;
+}
+
+QPushButton[panelShowBtn='true'] {
+  border: 0;
+  background-color: #FFFFFF;
+}

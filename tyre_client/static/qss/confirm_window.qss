@@ -1,0 +1,41 @@
+QWidget#subWindowPanel, QWidget#cameraMainPanel {
+  background-color: #FFFFFF;
+}
+
+QWidget#cameraShadowWidget {
+  background-color: rgba(0, 0, 0, 0)
+}
+
+QPushButton#confirmBtn {
+  padding: 6px 20px;
+  border-radius: 3px;
+  border: 1px solid #2E9AFE;
+  background-color: #2E9AFE;
+  font-family: 'Microsoft YaHei';
+  color: #FFFFFF;
+}
+
+QPushButton#confirmBtn:hover {
+  border: 1px solid #58ACFA;
+  background-color: #58ACFA;
+}
+
+QPushButton#cancelBtn {
+  margin-left: 5px;
+  padding: 6px 20px;
+  border: 1px solid #D8D8D8;
+  border-radius: 3px;
+  background-color: #FFFFFF;
+  font-family: 'Microsoft YaHei';
+  color: #727272;
+}
+
+QPushButton#cancelBtn:hover {
+  background-color: #F5F5F5;
+}
+
+QLabel#messageLabel {
+  font-family: 'Microsoft YaHei';
+  font-size: 16px;
+  color: #727272;
+}

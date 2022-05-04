@@ -1,0 +1,63 @@
+QWidget#infoPanelLeft {
+  background-color: #FFFFFF;
+}
+
+QWidget#infoPanelRight {
+  background-color: #FFFFFF;
+}
+
+QWidget#panelLeftBodyContent, QWidget#panelRightBodyContent {
+  background-color: #FFFFFF;
+}
+
+QWidget#panelLeftTitle, QWidget#panelRightTitle {
+  border-bottom: 1px solid #F0F0F0;
+}
+
+QLabel#panelLeftTitleText, QLabel#panelRightTitleText, QLabel#cameraLabel, QLabel#xrayLabel, QLabel#serverLabel, QLabel#alertLabel {
+  font-size: 16px;
+  color: #727272;
+}
+
+QLabel {
+  font-family: 'Microsoft YaHei'
+}
+
+QLabel#productionLineLabel, QLabel#time1Label, QLabel#time2Label {
+  font-size: 16px;
+  color: #2E9AFE;
+}
+
+QLabel#checkingLabel {
+  font-size: 16px;
+  color: #454545;
+}
+
+QLabel[statusLabel='connected'] {
+  font-size: 16px;
+  color: #239B56;
+}
+
+QLabel[statusLabel='disconnected'] {
+  font-size: 16px;
+  color: #424242;
+}
+
+QLabel[resultLabel='true'] {
+  font-size: 16px;
+  color: #239B56;
+}
+
+QLabel[resultLabel='false'] {
+  font-size: 16px;
+  color: #E74C3C;
+}
+
+QLabel[errMessage='true'] {
+  font-size: 18px;
+  color: #E74C3C;
+}
+
+QLabel#checkingIcon {
+  margin-left: 10px;
+}

@@ -1,0 +1,16 @@
+QWidget#toolPanel {
+  background-color: #FFFFFF;
+  border-right: 1px solid #F0F0F0;
+}
+
+QToolButton {
+  padding: 12px; 
+  width: 64px; 
+  border: none; 
+  border-radius: 6px; 
+  color: #515151;
+}
+
+QToolButton:hover {
+  background-color: #F6F6F6;
+}

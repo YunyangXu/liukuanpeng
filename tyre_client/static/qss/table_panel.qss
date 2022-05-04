@@ -1,0 +1,83 @@
+QDateTimeEdit {
+  margin-right: 10px;
+  padding: 6px;
+  border: 1px solid #D8D8D8;
+  font-family: 'Microsoft YaHei';
+  font-size: 18px;
+}
+
+QDateTimeEdit::drop-down {
+  margin-right: 10px;
+  padding: 0;
+  width: 14px;
+  background-color: transparent;
+  image: url('static/icons/arrow-down.svg')
+}
+
+QDateTimeEdit:hover {
+  border-color: #2E9AFE;
+}
+
+QLabel[searchLabel='true'] {
+  margin-right: 6px;
+  font-family: 'Microsoft YaHei';
+  font-size: 16px;
+  color: #727272;
+}
+
+QPushButton#searchBtn {
+  padding: 6px 20px;
+  border-radius: 3px;
+  border: 1px solid #2E9AFE;
+  background-color: #2E9AFE;
+  font-family: 'Microsoft YaHei';
+  font-size: 16px;
+  color: #FFFFFF;
+}
+
+QPushButton#searchBtn:hover {
+  border: 1px solid #58ACFA;
+  background-color: #58ACFA;
+}
+
+QPushButton[pageBtn='true'] {
+  margin-left: 10px;
+  padding: 6px 20px;
+  border: 1px solid #D8D8D8;
+  border-radius: 3px;
+  background-color: #FFFFFF;
+  font-family: 'Microsoft YaHei';
+  font-size: 16px;
+  color: #727272;
+}
+
+QPushButton[pageBtn='true']:hover {
+  background-color: #F5F5F5;
+}
+
+QLabel#pageLabel {
+  font-family: 'Microsoft YaHei';
+  font-size: 18px;
+  color: #727272;
+}
+
+QHeaderView {
+  font-size: 16px;
+}
+
+QTableView {
+  font-size: 16px;
+  selection-color: black;
+  selection-background-color: #F2F2F2;
+}
+
+QPushButton[downloadBtn='true'] {
+  border: 0;
+  font-family: 'Microsoft YaHei';
+  font-size: 14px;
+  color: #2E9AFE;
+}
+
+QPushButton[downloadBtn='true']:hover {
+  background-color: #FFFFFF;
+}

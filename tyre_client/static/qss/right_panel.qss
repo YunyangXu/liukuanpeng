@@ -1,0 +1,7 @@
+QWidget#footer {
+  background-color: #F2F2F2;
+}
+
+QLabel#footerLabel {
+  color: #515151;
+}

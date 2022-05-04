@@ -1,0 +1,9 @@
+# 客户端不同步到git
+**/__pycache__/
+
+
+# 服务端不同步到git
+/tyre_server/node_modules/
+/tyre_server/imgs/nwc/**
+/tyre_server/imgs/qx/original/**
+/tyre_server/imgs/qx/result/**
