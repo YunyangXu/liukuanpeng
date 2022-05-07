@@ -33,7 +33,7 @@ class SocketClient(QObject):
     # 缓冲区
     self.buffer = buffer
     # socket实例
-    self.socket = QWebSocket()
+    self.socket = None
     # socket状态
     self.socketState = socketStateEnum.stateNone
     # 是否手动关闭
@@ -60,6 +60,7 @@ class SocketClient(QObject):
 
   # 开启连接
   def connect(self):
+    self.socket = QWebSocket()
     self.socket.open(QUrl(self.url))
     # 首次连接，绑定槽函数
     if self.socketState == socketStateEnum.stateNone:
@@ -90,7 +91,10 @@ class SocketClient(QObject):
   # 断开连接
   def disconnect(self): 
     self.closeByHand = True
-    self.socket.close()
+    if self.socketState != socketStateEnum.stateNone:
+      self.socket.close()
+    # 释放socket连接
+    del self.socket
     self.socketState = socketStateEnum.disconnected
     self.heartBeatTimer.stop()
     self.reconnectTimer.stop()

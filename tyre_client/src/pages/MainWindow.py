@@ -244,6 +244,8 @@ class MainWindowPage(FlexiableLayoutWindow):
       imgPanel.clearImgPanel('right')
       if self.socketClient:
         self.socketClient.disconnect()
+        # 注意销毁连接占用的内存
+        del self.socketClient
         self.updateInfoPanel('serverStatusLabel', 0)
       # 依次关闭相机、X光机、警报装置连接
       # ...
@@ -251,7 +253,6 @@ class MainWindowPage(FlexiableLayoutWindow):
       # ...
       # ...
       # ...
-
 
 
   # 开启/停止服务
