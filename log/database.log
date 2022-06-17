@@ -1,0 +1,46 @@
+[2022-06-17T20:06:54.906] [INFO] mongoDB连接成功
+[2022-06-17T20:09:46.242] [INFO] mongoDB连接成功
+[2022-06-17T20:10:48.635] [INFO] mongoDB连接成功
+[2022-06-17T20:11:00.351] [INFO] mongoDB连接成功
+[2022-06-17T20:11:05.754] [ERROR] Insert to ty_records failed: ReferenceError: id is not defined
+[2022-06-17T20:11:07.625] [ERROR] Insert to ty_records failed: ReferenceError: id is not defined
+[2022-06-17T20:11:09.695] [ERROR] Insert to ty_records failed: ReferenceError: id is not defined
+[2022-06-17T20:11:11.700] [ERROR] Insert to ty_records failed: ReferenceError: id is not defined
+[2022-06-17T20:11:13.746] [ERROR] Insert to ty_records failed: ReferenceError: id is not defined
+[2022-06-17T20:11:15.796] [ERROR] Insert to ty_records failed: ReferenceError: id is not defined
+[2022-06-17T20:11:17.702] [ERROR] Insert to ty_records failed: ReferenceError: id is not defined
+[2022-06-17T20:11:19.753] [ERROR] Insert to ty_records failed: ReferenceError: id is not defined
+[2022-06-17T20:11:21.844] [ERROR] Insert to ty_records failed: ReferenceError: id is not defined
+[2022-06-17T20:11:41.968] [INFO] mongoDB连接成功
+[2022-06-17T20:11:53.352] [ERROR] Insert to ty_records failed: ReferenceError: id is not defined
+[2022-06-17T20:11:55.291] [ERROR] Insert to ty_records failed: ReferenceError: id is not defined
+[2022-06-17T20:11:57.351] [ERROR] Insert to ty_records failed: ReferenceError: id is not defined
+[2022-06-17T20:13:09.337] [INFO] mongoDB连接成功
+[2022-06-17T20:13:17.633] [ERROR] Insert to ty_records failed: ReferenceError: id is not defined
+[2022-06-17T20:13:20.435] [ERROR] Insert to ty_records failed: ReferenceError: id is not defined
+[2022-06-17T20:13:23.876] [ERROR] Insert to ty_records failed: ReferenceError: id is not defined
+[2022-06-17T20:13:26.715] [ERROR] Insert to ty_records failed: ReferenceError: id is not defined
+[2022-06-17T20:13:29.479] [ERROR] Insert to ty_records failed: ReferenceError: id is not defined
+[2022-06-17T20:13:32.296] [ERROR] Insert to ty_records failed: ReferenceError: id is not defined
+[2022-06-17T20:13:35.179] [ERROR] Insert to ty_records failed: ReferenceError: id is not defined
+[2022-06-17T20:13:37.986] [ERROR] Insert to ty_records failed: ReferenceError: id is not defined
+[2022-06-17T20:13:40.767] [ERROR] Insert to ty_records failed: ReferenceError: id is not defined
+[2022-06-17T20:14:43.120] [ERROR] Insert to ty_records failed: ReferenceError: id is not defined
+[2022-06-17T20:15:10.034] [INFO] mongoDB连接成功
+[2022-06-17T20:15:14.759] [ERROR] Insert to ty_records failed: ReferenceError: id is not defined
+[2022-06-17T20:15:47.790] [ERROR] Insert to ty_records failed: ReferenceError: id is not defined
+[2022-06-17T20:15:52.244] [ERROR] Insert to ty_records failed: ReferenceError: id is not defined
+[2022-06-17T20:18:38.441] [INFO] mongoDB连接成功
+[2022-06-17T20:18:43.698] [ERROR] Insert to ty_records failed: ReferenceError: id is not defined
+[2022-06-17T20:18:46.482] [ERROR] Insert to ty_records failed: ReferenceError: id is not defined
+[2022-06-17T20:19:05.034] [INFO] mongoDB连接成功
+[2022-06-17T20:19:10.273] [ERROR] Insert to ty_records failed: ReferenceError: id is not defined
+[2022-06-17T20:21:09.340] [INFO] mongoDB连接成功
+[2022-06-17T20:21:17.581] [ERROR] Insert to ty_records failed: ReferenceError: id is not defined
+[2022-06-17T20:22:29.839] [INFO] mongoDB连接成功
+[2022-06-17T20:22:33.301] [ERROR] Insert to ty_records failed: ReferenceError: id is not defined
+[2022-06-17T20:22:59.019] [INFO] mongoDB连接成功
+[2022-06-17T20:23:09.514] [ERROR] Insert to ty_records failed: ReferenceError: id is not defined
+[2022-06-17T20:23:53.302] [INFO] mongoDB连接成功
+[2022-06-17T20:23:58.429] [ERROR] Insert to ty_records failed: ReferenceError: id is not defined
+[2022-06-17T20:24:01.911] [ERROR] Insert to ty_records failed: ReferenceError: id is not defined

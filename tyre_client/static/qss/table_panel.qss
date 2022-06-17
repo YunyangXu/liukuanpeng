@@ -11,7 +11,7 @@ QDateTimeEdit::drop-down {
   padding: 0;
   width: 14px;
   background-color: transparent;
-  image: url('tyre_client/static/icons/arrow-down.svg')
+  image: url('../../static/icons/arrow-down.svg')
 }
 
 QDateTimeEdit:hover {

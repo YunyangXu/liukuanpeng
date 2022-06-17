@@ -2868,3 +2868,16 @@ NameError: name 'ssss' is not defined
 [2022-04-27T12:32:57.734] [ERROR] socket连接异常: Error: read ECONNRESET undefined
 [2022-04-27T12:34:11.761] [ERROR] socket连接异常: Error: read ECONNRESET undefined
 [2022-05-02T16:04:54.370] [ERROR] socket连接异常: Error: read ECONNRESET undefined
+[2022-05-28T18:11:05.756] [ERROR] socket连接异常: Error: read ECONNRESET undefined
+[2022-05-28T18:11:26.768] [ERROR] socket连接异常: Error: read ECONNRESET undefined
+[2022-05-28T20:09:24.331] [ERROR] socket连接异常: Error: read ECONNRESET undefined
+[2022-05-28T20:18:18.209] [ERROR] socket连接异常: Error: read ECONNRESET undefined
+[2022-05-28T20:19:17.877] [ERROR] socket连接异常: Error: read ECONNRESET undefined
+[2022-05-28T20:35:31.185] [ERROR] socket连接异常: Error: read ECONNRESET undefined
+[2022-05-28T20:49:12.448] [ERROR] socket连接异常: Error: read ECONNRESET undefined
+[2022-05-28T20:50:30.922] [ERROR] socket连接异常: Error: read ECONNRESET undefined
+[2022-05-28T20:52:05.688] [ERROR] socket连接异常: Error: read ECONNRESET undefined
+[2022-05-28T20:54:42.889] [ERROR] socket连接异常: Error: read ECONNRESET undefined
+[2022-05-28T20:56:27.119] [ERROR] socket连接异常: Error: read ECONNRESET undefined
+[2022-05-28T20:59:59.361] [ERROR] socket连接异常: Error: read ECONNRESET undefined
+[2022-05-28T21:00:13.011] [ERROR] 服务端异常: Error: read ECONNRESET

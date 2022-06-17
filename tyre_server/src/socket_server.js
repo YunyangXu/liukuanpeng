@@ -1,5 +1,6 @@
 const ws = require('nodejs-websocket');
 const fs = require('fs');
+const path = require('path');
 const logger = require('../config/logger').applicationLogger;
 const { exec } = require('child_process');
 const { framesToImg, responseFrames } = require('./util/frames');
@@ -120,10 +121,10 @@ setInterval(async () => {
     // 根据检测任务类型将图片写入文件，写入文件的路径后期可以更改
     if (parseInt(checkType) === 0) {
       // 缺陷检测，后续这里注意图片类型
-      fs.writeFileSync(`imgs/qx/original/${frameId}.bmp`, imgBuffer);
+      fs.writeFileSync(`${path.resolve(__dirname, '..')}/imgs/qx/original/${frameId}.bmp`, imgBuffer);
     } else {
       // 内外侧检测
-      fs.writeFileSync(`imgs/nwc/${frameId}.jpg`, imgBuffer);
+      fs.writeFileSync(`${path.resolve(__dirname, '..')}/imgs/nwc/${frameId}.jpg`, imgBuffer);
     }
     // 传递给子进程的参数字符串
     const paraStr = 
@@ -131,7 +132,8 @@ setInterval(async () => {
     // 开始检测时间
     const startTime = new Date();
     // 开启子进程，调用python算法模块，执行算法识别任务
-    exec('python src/py/main.py' + paraStr, async (error, stdout) => {
+    exec(`python ${path.resolve(__dirname)}/py/main.py` + paraStr, async (error, stdout) => {
+      console.log(error)
       let frames = null;
       let res = null;
       let msg = null;
@@ -152,7 +154,7 @@ setInterval(async () => {
         let resImg = null;
         if (parseInt(checkType) === 0 && res === 0) {
           try {
-            resImg = fs.readFileSync(`imgs/qx/result/${frameId}.bmp`);
+            resImg = fs.readFileSync(`${path.resolve(__dirname, '..')}/imgs/qx/result/${frameId}.bmp`);
           } catch (e) {
             logger.error('读取结果图像异常');
           }

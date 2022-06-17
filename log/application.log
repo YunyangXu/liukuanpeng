@@ -1,0 +1,159 @@
+[2022-06-17T20:07:10.722] [ERROR] 服务端异常: Error: ENOENT: no such file or directory, open 'imgs/qx/original/0401f57dee3611ec9c9c3c2c30f806bd.bmp'
+[2022-06-17T20:09:56.837] [ERROR] 服务端异常: Error: ENOENT: no such file or directory, open 'imgs/qx/original/67188740ee3611ec9cea3c2c30f806bd.bmp'
+[2022-06-17T20:11:05.683] [ERROR] 算法模块执行异常: Error: Command failed: python src/py/main.py 8ffd3401ee3611ecaea73c2c30f806bd eyJ0eXJlX29yZGVyIjoxLCJhbGdvcml0aG0xIjowLCJ0b3BfeCI6IjExMSIsInRvcF95IjoiMTExIiwidG9wX3dpZHRoIjoiMTExIiwidG9wX2hlaWdodCI6IjExMSIsImJvdHRvbV94IjoiMTExIiwiYm90dG9tX3kiOiIxMTEiLCJib3R0b21fd2lkdGgiOiIxMTEiLCJib3R0b21faGVpZ2h0IjoiMTExIiwiYWxnb3JpdGhtMiI6WyJhMCIsImIwIiwiYjEiLCJiMiJdLCJjaGVja190eXBlIjowfQ==
+python: can't open file 'C:\Users\DELL\Desktop\tyre\src\py\main.py': [Errno 2] No such file or directory
+
+[2022-06-17T20:11:07.615] [ERROR] 算法模块执行异常: Error: Command failed: python src/py/main.py 912fd11bee3611ec86403c2c30f806bd eyJ0eXJlX29yZGVyIjoxLCJhbGdvcml0aG0xIjowLCJ0b3BfeCI6IjExMSIsInRvcF95IjoiMTExIiwidG9wX3dpZHRoIjoiMTExIiwidG9wX2hlaWdodCI6IjExMSIsImJvdHRvbV94IjoiMTExIiwiYm90dG9tX3kiOiIxMTEiLCJib3R0b21fd2lkdGgiOiIxMTEiLCJib3R0b21faGVpZ2h0IjoiMTExIiwiYWxnb3JpdGhtMiI6WyJhMCIsImIwIiwiYjEiLCJiMiJdLCJjaGVja190eXBlIjowfQ==
+python: can't open file 'C:\Users\DELL\Desktop\tyre\src\py\main.py': [Errno 2] No such file or directory
+
+[2022-06-17T20:11:09.688] [ERROR] 算法模块执行异常: Error: Command failed: python src/py/main.py 9265d884ee3611ecb5c93c2c30f806bd eyJ0eXJlX29yZGVyIjoxLCJhbGdvcml0aG0xIjowLCJ0b3BfeCI6IjExMSIsInRvcF95IjoiMTExIiwidG9wX3dpZHRoIjoiMTExIiwidG9wX2hlaWdodCI6IjExMSIsImJvdHRvbV94IjoiMTExIiwiYm90dG9tX3kiOiIxMTEiLCJib3R0b21fd2lkdGgiOiIxMTEiLCJib3R0b21faGVpZ2h0IjoiMTExIiwiYWxnb3JpdGhtMiI6WyJhMCIsImIwIiwiYjEiLCJiMiJdLCJjaGVja190eXBlIjowfQ==
+python: can't open file 'C:\Users\DELL\Desktop\tyre\src\py\main.py': [Errno 2] No such file or directory
+
+[2022-06-17T20:11:11.690] [ERROR] 算法模块执行异常: Error: Command failed: python src/py/main.py 939f1b6cee3611ecabf53c2c30f806bd eyJ0eXJlX29yZGVyIjoxLCJhbGdvcml0aG0xIjowLCJ0b3BfeCI6IjExMSIsInRvcF95IjoiMTExIiwidG9wX3dpZHRoIjoiMTExIiwidG9wX2hlaWdodCI6IjExMSIsImJvdHRvbV94IjoiMTExIiwiYm90dG9tX3kiOiIxMTEiLCJib3R0b21fd2lkdGgiOiIxMTEiLCJib3R0b21faGVpZ2h0IjoiMTExIiwiYWxnb3JpdGhtMiI6WyJhMCIsImIwIiwiYjEiLCJiMiJdLCJjaGVja190eXBlIjowfQ==
+python: can't open file 'C:\Users\DELL\Desktop\tyre\src\py\main.py': [Errno 2] No such file or directory
+
+[2022-06-17T20:11:13.737] [ERROR] 算法模块执行异常: Error: Command failed: python src/py/main.py 94d669b2ee3611ec892d3c2c30f806bd eyJ0eXJlX29yZGVyIjoxLCJhbGdvcml0aG0xIjowLCJ0b3BfeCI6IjExMSIsInRvcF95IjoiMTExIiwidG9wX3dpZHRoIjoiMTExIiwidG9wX2hlaWdodCI6IjExMSIsImJvdHRvbV94IjoiMTExIiwiYm90dG9tX3kiOiIxMTEiLCJib3R0b21fd2lkdGgiOiIxMTEiLCJib3R0b21faGVpZ2h0IjoiMTExIiwiYWxnb3JpdGhtMiI6WyJhMCIsImIwIiwiYjEiLCJiMiJdLCJjaGVja190eXBlIjowfQ==
+python: can't open file 'C:\Users\DELL\Desktop\tyre\src\py\main.py': [Errno 2] No such file or directory
+
+[2022-06-17T20:11:15.787] [ERROR] 算法模块执行异常: Error: Command failed: python src/py/main.py 960de1a1ee3611ecb9273c2c30f806bd eyJ0eXJlX29yZGVyIjoxLCJhbGdvcml0aG0xIjowLCJ0b3BfeCI6IjExMSIsInRvcF95IjoiMTExIiwidG9wX3dpZHRoIjoiMTExIiwidG9wX2hlaWdodCI6IjExMSIsImJvdHRvbV94IjoiMTExIiwiYm90dG9tX3kiOiIxMTEiLCJib3R0b21fd2lkdGgiOiIxMTEiLCJib3R0b21faGVpZ2h0IjoiMTExIiwiYWxnb3JpdGhtMiI6WyJhMCIsImIwIiwiYjEiLCJiMiJdLCJjaGVja190eXBlIjowfQ==
+python: can't open file 'C:\Users\DELL\Desktop\tyre\src\py\main.py': [Errno 2] No such file or directory
+
+[2022-06-17T20:11:17.696] [ERROR] 算法模块执行异常: Error: Command failed: python src/py/main.py 97437542ee3611ecbba43c2c30f806bd eyJ0eXJlX29yZGVyIjoxLCJhbGdvcml0aG0xIjowLCJ0b3BfeCI6IjExMSIsInRvcF95IjoiMTExIiwidG9wX3dpZHRoIjoiMTExIiwidG9wX2hlaWdodCI6IjExMSIsImJvdHRvbV94IjoiMTExIiwiYm90dG9tX3kiOiIxMTEiLCJib3R0b21fd2lkdGgiOiIxMTEiLCJib3R0b21faGVpZ2h0IjoiMTExIiwiYWxnb3JpdGhtMiI6WyJhMCIsImIwIiwiYjEiLCJiMiJdLCJjaGVja190eXBlIjowfQ==
+python: can't open file 'C:\Users\DELL\Desktop\tyre\src\py\main.py': [Errno 2] No such file or directory
+
+[2022-06-17T20:11:19.746] [ERROR] 算法模块执行异常: Error: Command failed: python src/py/main.py 9876368dee3611ec91403c2c30f806bd eyJ0eXJlX29yZGVyIjoxLCJhbGdvcml0aG0xIjowLCJ0b3BfeCI6IjExMSIsInRvcF95IjoiMTExIiwidG9wX3dpZHRoIjoiMTExIiwidG9wX2hlaWdodCI6IjExMSIsImJvdHRvbV94IjoiMTExIiwiYm90dG9tX3kiOiIxMTEiLCJib3R0b21fd2lkdGgiOiIxMTEiLCJib3R0b21faGVpZ2h0IjoiMTExIiwiYWxnb3JpdGhtMiI6WyJhMCIsImIwIiwiYjEiLCJiMiJdLCJjaGVja190eXBlIjowfQ==
+python: can't open file 'C:\Users\DELL\Desktop\tyre\src\py\main.py': [Errno 2] No such file or directory
+
+[2022-06-17T20:11:21.839] [ERROR] 算法模块执行异常: Error: Command failed: python src/py/main.py 99ad0288ee3611eca3a33c2c30f806bd eyJ0eXJlX29yZGVyIjoxLCJhbGdvcml0aG0xIjowLCJ0b3BfeCI6IjExMSIsInRvcF95IjoiMTExIiwidG9wX3dpZHRoIjoiMTExIiwidG9wX2hlaWdodCI6IjExMSIsImJvdHRvbV94IjoiMTExIiwiYm90dG9tX3kiOiIxMTEiLCJib3R0b21fd2lkdGgiOiIxMTEiLCJib3R0b21faGVpZ2h0IjoiMTExIiwiYWxnb3JpdGhtMiI6WyJhMCIsImIwIiwiYjEiLCJiMiJdLCJjaGVja190eXBlIjowfQ==
+python: can't open file 'C:\Users\DELL\Desktop\tyre\src\py\main.py': [Errno 2] No such file or directory
+
+[2022-06-17T20:11:47.775] [ERROR] socket连接异常: Error: read ECONNRESET undefined
+[2022-06-17T20:11:53.313] [ERROR] 算法模块执行异常: Error: Command failed: python src/py/main.py ac6856dfee3611eca88a3c2c30f806bd eyJ0eXJlX29yZGVyIjoxLCJhbGdvcml0aG0xIjowLCJ0b3BfeCI6IjExMSIsInRvcF95IjoiMTExIiwidG9wX3dpZHRoIjoiMTExIiwidG9wX2hlaWdodCI6IjExMSIsImJvdHRvbV94IjoiMTExIiwiYm90dG9tX3kiOiIxMTEiLCJib3R0b21fd2lkdGgiOiIxMTEiLCJib3R0b21faGVpZ2h0IjoiMTExIiwiYWxnb3JpdGhtMiI6WyJhMCIsImIwIiwiYjEiLCJiMiJdLCJjaGVja190eXBlIjowfQ==
+python: can't open file 'C:\Users\DELL\Desktop\tyre\src\py\main.py': [Errno 2] No such file or directory
+
+[2022-06-17T20:11:55.278] [ERROR] 算法模块执行异常: Error: Command failed: python src/py/main.py ad9db4ebee3611ecac973c2c30f806bd eyJ0eXJlX29yZGVyIjoxLCJhbGdvcml0aG0xIjowLCJ0b3BfeCI6IjExMSIsInRvcF95IjoiMTExIiwidG9wX3dpZHRoIjoiMTExIiwidG9wX2hlaWdodCI6IjExMSIsImJvdHRvbV94IjoiMTExIiwiYm90dG9tX3kiOiIxMTEiLCJib3R0b21fd2lkdGgiOiIxMTEiLCJib3R0b21faGVpZ2h0IjoiMTExIiwiYWxnb3JpdGhtMiI6WyJhMCIsImIwIiwiYjEiLCJiMiJdLCJjaGVja190eXBlIjowfQ==
+python: can't open file 'C:\Users\DELL\Desktop\tyre\src\py\main.py': [Errno 2] No such file or directory
+
+[2022-06-17T20:11:57.340] [ERROR] 算法模块执行异常: Error: Command failed: python src/py/main.py aed084e8ee3611ec807f3c2c30f806bd eyJ0eXJlX29yZGVyIjoxLCJhbGdvcml0aG0xIjowLCJ0b3BfeCI6IjExMSIsInRvcF95IjoiMTExIiwidG9wX3dpZHRoIjoiMTExIiwidG9wX2hlaWdodCI6IjExMSIsImJvdHRvbV94IjoiMTExIiwiYm90dG9tX3kiOiIxMTEiLCJib3R0b21fd2lkdGgiOiIxMTEiLCJib3R0b21faGVpZ2h0IjoiMTExIiwiYWxnb3JpdGhtMiI6WyJhMCIsImIwIiwiYjEiLCJiMiJdLCJjaGVja190eXBlIjowfQ==
+python: can't open file 'C:\Users\DELL\Desktop\tyre\src\py\main.py': [Errno 2] No such file or directory
+
+[2022-06-17T20:13:12.576] [ERROR] socket连接异常: Error: read ECONNRESET undefined
+[2022-06-17T20:13:17.603] [ERROR] 算法模块执行异常: Error: Command failed: python C:\Users\DELL\Desktop\tyre\tyre_server\src/py/main.py ddc93471ee3611ecbdbd3c2c30f806bd eyJ0eXJlX29yZGVyIjoxLCJhbGdvcml0aG0xIjowLCJ0b3BfeCI6IjExMSIsInRvcF95IjoiMTExIiwidG9wX3dpZHRoIjoiMTExIiwidG9wX2hlaWdodCI6IjExMSIsImJvdHRvbV94IjoiMTExIiwiYm90dG9tX3kiOiIxMTEiLCJib3R0b21fd2lkdGgiOiIxMTEiLCJib3R0b21faGVpZ2h0IjoiMTExIiwiYWxnb3JpdGhtMiI6WyJhMCIsImIwIiwiYjEiLCJiMiJdLCJjaGVja190eXBlIjowfQ==
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\tyre\tyre_server\src\py\main.py", line 40, in <module>
+    with open(filePath, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'imgs/qx/original/ddc93471ee3611ecbdbd3c2c30f806bd.bmp'
+
+[2022-06-17T20:13:20.422] [ERROR] 算法模块执行异常: Error: Command failed: python C:\Users\DELL\Desktop\tyre\tyre_server\src/py/main.py df754ed0ee3611ec8dd63c2c30f806bd eyJ0eXJlX29yZGVyIjoxLCJhbGdvcml0aG0xIjowLCJ0b3BfeCI6IjExMSIsInRvcF95IjoiMTExIiwidG9wX3dpZHRoIjoiMTExIiwidG9wX2hlaWdodCI6IjExMSIsImJvdHRvbV94IjoiMTExIiwiYm90dG9tX3kiOiIxMTEiLCJib3R0b21fd2lkdGgiOiIxMTEiLCJib3R0b21faGVpZ2h0IjoiMTExIiwiYWxnb3JpdGhtMiI6WyJhMCIsImIwIiwiYjEiLCJiMiJdLCJjaGVja190eXBlIjowfQ==
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\tyre\tyre_server\src\py\main.py", line 40, in <module>
+    with open(filePath, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'imgs/qx/original/df754ed0ee3611ec8dd63c2c30f806bd.bmp'
+
+[2022-06-17T20:13:23.862] [ERROR] 算法模块执行异常: Error: Command failed: python C:\Users\DELL\Desktop\tyre\tyre_server\src/py/main.py e1848b4cee3611eca3713c2c30f806bd eyJ0eXJlX29yZGVyIjoxLCJhbGdvcml0aG0xIjowLCJ0b3BfeCI6IjExMSIsInRvcF95IjoiMTExIiwidG9wX3dpZHRoIjoiMTExIiwidG9wX2hlaWdodCI6IjExMSIsImJvdHRvbV94IjoiMTExIiwiYm90dG9tX3kiOiIxMTEiLCJib3R0b21fd2lkdGgiOiIxMTEiLCJib3R0b21faGVpZ2h0IjoiMTExIiwiYWxnb3JpdGhtMiI6WyJhMCIsImIwIiwiYjEiLCJiMiJdLCJjaGVja190eXBlIjowfQ==
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\tyre\tyre_server\src\py\main.py", line 40, in <module>
+    with open(filePath, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'imgs/qx/original/e1848b4cee3611eca3713c2c30f806bd.bmp'
+
+[2022-06-17T20:13:26.709] [ERROR] 算法模块执行异常: Error: Command failed: python C:\Users\DELL\Desktop\tyre\tyre_server\src/py/main.py e333998eee3611ec8c0c3c2c30f806bd eyJ0eXJlX29yZGVyIjoxLCJhbGdvcml0aG0xIjowLCJ0b3BfeCI6IjExMSIsInRvcF95IjoiMTExIiwidG9wX3dpZHRoIjoiMTExIiwidG9wX2hlaWdodCI6IjExMSIsImJvdHRvbV94IjoiMTExIiwiYm90dG9tX3kiOiIxMTEiLCJib3R0b21fd2lkdGgiOiIxMTEiLCJib3R0b21faGVpZ2h0IjoiMTExIiwiYWxnb3JpdGhtMiI6WyJhMCIsImIwIiwiYjEiLCJiMiJdLCJjaGVja190eXBlIjowfQ==
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\tyre\tyre_server\src\py\main.py", line 40, in <module>
+    with open(filePath, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'imgs/qx/original/e333998eee3611ec8c0c3c2c30f806bd.bmp'
+
+[2022-06-17T20:13:29.463] [ERROR] 算法模块执行异常: Error: Command failed: python C:\Users\DELL\Desktop\tyre\tyre_server\src/py/main.py e4e0fb4aee3611ecb4823c2c30f806bd eyJ0eXJlX29yZGVyIjoxLCJhbGdvcml0aG0xIjowLCJ0b3BfeCI6IjExMSIsInRvcF95IjoiMTExIiwidG9wX3dpZHRoIjoiMTExIiwidG9wX2hlaWdodCI6IjExMSIsImJvdHRvbV94IjoiMTExIiwiYm90dG9tX3kiOiIxMTEiLCJib3R0b21fd2lkdGgiOiIxMTEiLCJib3R0b21faGVpZ2h0IjoiMTExIiwiYWxnb3JpdGhtMiI6WyJhMCIsImIwIiwiYjEiLCJiMiJdLCJjaGVja190eXBlIjowfQ==
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\tyre\tyre_server\src\py\main.py", line 40, in <module>
+    with open(filePath, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'imgs/qx/original/e4e0fb4aee3611ecb4823c2c30f806bd.bmp'
+
+[2022-06-17T20:13:32.290] [ERROR] 算法模块执行异常: Error: Command failed: python C:\Users\DELL\Desktop\tyre\tyre_server\src/py/main.py e689f1d8ee3611ecb2c33c2c30f806bd eyJ0eXJlX29yZGVyIjoxLCJhbGdvcml0aG0xIjowLCJ0b3BfeCI6IjExMSIsInRvcF95IjoiMTExIiwidG9wX3dpZHRoIjoiMTExIiwidG9wX2hlaWdodCI6IjExMSIsImJvdHRvbV94IjoiMTExIiwiYm90dG9tX3kiOiIxMTEiLCJib3R0b21fd2lkdGgiOiIxMTEiLCJib3R0b21faGVpZ2h0IjoiMTExIiwiYWxnb3JpdGhtMiI6WyJhMCIsImIwIiwiYjEiLCJiMiJdLCJjaGVja190eXBlIjowfQ==
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\tyre\tyre_server\src\py\main.py", line 40, in <module>
+    with open(filePath, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'imgs/qx/original/e689f1d8ee3611ecb2c33c2c30f806bd.bmp'
+
+[2022-06-17T20:13:35.172] [ERROR] 算法模块执行异常: Error: Command failed: python C:\Users\DELL\Desktop\tyre\tyre_server\src/py/main.py e834942dee3611ecab613c2c30f806bd eyJ0eXJlX29yZGVyIjoxLCJhbGdvcml0aG0xIjowLCJ0b3BfeCI6IjExMSIsInRvcF95IjoiMTExIiwidG9wX3dpZHRoIjoiMTExIiwidG9wX2hlaWdodCI6IjExMSIsImJvdHRvbV94IjoiMTExIiwiYm90dG9tX3kiOiIxMTEiLCJib3R0b21fd2lkdGgiOiIxMTEiLCJib3R0b21faGVpZ2h0IjoiMTExIiwiYWxnb3JpdGhtMiI6WyJhMCIsImIwIiwiYjEiLCJiMiJdLCJjaGVja190eXBlIjowfQ==
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\tyre\tyre_server\src\py\main.py", line 40, in <module>
+    with open(filePath, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'imgs/qx/original/e834942dee3611ecab613c2c30f806bd.bmp'
+
+[2022-06-17T20:13:37.980] [ERROR] 算法模块执行异常: Error: Command failed: python C:\Users\DELL\Desktop\tyre\tyre_server\src/py/main.py e9ecf2c6ee3611ecb97d3c2c30f806bd eyJ0eXJlX29yZGVyIjoxLCJhbGdvcml0aG0xIjowLCJ0b3BfeCI6IjExMSIsInRvcF95IjoiMTExIiwidG9wX3dpZHRoIjoiMTExIiwidG9wX2hlaWdodCI6IjExMSIsImJvdHRvbV94IjoiMTExIiwiYm90dG9tX3kiOiIxMTEiLCJib3R0b21fd2lkdGgiOiIxMTEiLCJib3R0b21faGVpZ2h0IjoiMTExIiwiYWxnb3JpdGhtMiI6WyJhMCIsImIwIiwiYjEiLCJiMiJdLCJjaGVja190eXBlIjowfQ==
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\tyre\tyre_server\src\py\main.py", line 40, in <module>
+    with open(filePath, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'imgs/qx/original/e9ecf2c6ee3611ecb97d3c2c30f806bd.bmp'
+
+[2022-06-17T20:13:40.761] [ERROR] 算法模块执行异常: Error: Command failed: python C:\Users\DELL\Desktop\tyre\tyre_server\src/py/main.py eb9ffa14ee3611ec8cc43c2c30f806bd eyJ0eXJlX29yZGVyIjoxLCJhbGdvcml0aG0xIjowLCJ0b3BfeCI6IjExMSIsInRvcF95IjoiMTExIiwidG9wX3dpZHRoIjoiMTExIiwidG9wX2hlaWdodCI6IjExMSIsImJvdHRvbV94IjoiMTExIiwiYm90dG9tX3kiOiIxMTEiLCJib3R0b21fd2lkdGgiOiIxMTEiLCJib3R0b21faGVpZ2h0IjoiMTExIiwiYWxnb3JpdGhtMiI6WyJhMCIsImIwIiwiYjEiLCJiMiJdLCJjaGVja190eXBlIjowfQ==
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\tyre\tyre_server\src\py\main.py", line 40, in <module>
+    with open(filePath, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'imgs/qx/original/eb9ffa14ee3611ec8cc43c2c30f806bd.bmp'
+
+[2022-06-17T20:14:37.830] [ERROR] socket连接异常: Error: read ECONNRESET undefined
+[2022-06-17T20:14:43.112] [ERROR] 算法模块执行异常: Error: Command failed: python C:\Users\DELL\Desktop\tyre\tyre_server\src/py/main.py 10c5f250ee3711ec8fb43c2c30f806bd eyJ0eXJlX29yZGVyIjoxLCJhbGdvcml0aG0xIjowLCJ0b3BfeCI6IjExMSIsInRvcF95IjoiMTExIiwidG9wX3dpZHRoIjoiMTExIiwidG9wX2hlaWdodCI6IjExMSIsImJvdHRvbV94IjoiMTExIiwiYm90dG9tX3kiOiIxMTEiLCJib3R0b21fd2lkdGgiOiIxMTEiLCJib3R0b21faGVpZ2h0IjoiMTExIiwiYWxnb3JpdGhtMiI6WyJhMCIsImIwIiwiYjEiLCJiMiJdLCJjaGVja190eXBlIjowfQ==
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\tyre\tyre_server\src\py\main.py", line 40, in <module>
+    with open(filePath, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'imgs/qx/original/10c5f250ee3711ec8fb43c2c30f806bd.bmp'
+
+[2022-06-17T20:15:14.735] [ERROR] 算法模块执行异常: Error: Command failed: python C:\Users\DELL\Desktop\tyre\tyre_server\src/py/main.py 23985a67ee3711ec81f03c2c30f806bd eyJ0eXJlX29yZGVyIjoxLCJhbGdvcml0aG0xIjowLCJ0b3BfeCI6IjExMSIsInRvcF95IjoiMTExIiwidG9wX3dpZHRoIjoiMTExIiwidG9wX2hlaWdodCI6IjExMSIsImJvdHRvbV94IjoiMTExIiwiYm90dG9tX3kiOiIxMTEiLCJib3R0b21fd2lkdGgiOiIxMTEiLCJib3R0b21faGVpZ2h0IjoiMTExIiwiYWxnb3JpdGhtMiI6WyJhMCIsImIwIiwiYjEiLCJiMiJdLCJjaGVja190eXBlIjowfQ==
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\tyre\tyre_server\src\py\main.py", line 40, in <module>
+    with open(filePath, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'imgs/qx/original/23985a67ee3711ec81f03c2c30f806bd.bmp'
+
+[2022-06-17T20:15:47.778] [ERROR] 算法模块执行异常: Error: Command failed: python C:\Users\DELL\Desktop\tyre\tyre_server\src/py/main.py 374ac3deee3711eca9c73c2c30f806bd eyJ0eXJlX29yZGVyIjoxLCJhbGdvcml0aG0xIjowLCJ0b3BfeCI6IjExMSIsInRvcF95IjoiMTExIiwidG9wX3dpZHRoIjoiMTExIiwidG9wX2hlaWdodCI6IjExMSIsImJvdHRvbV94IjoiMTExIiwiYm90dG9tX3kiOiIxMTEiLCJib3R0b21fd2lkdGgiOiIxMTEiLCJib3R0b21faGVpZ2h0IjoiMTExIiwiYWxnb3JpdGhtMiI6WyJhMCIsImIwIiwiYjEiLCJiMiJdLCJjaGVja190eXBlIjowfQ==
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\tyre\tyre_server\src\py\main.py", line 40, in <module>
+    with open(filePath, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'imgs/qx/original/374ac3deee3711eca9c73c2c30f806bd.bmp'
+
+[2022-06-17T20:15:52.239] [ERROR] 算法模块执行异常: Error: Command failed: python C:\Users\DELL\Desktop\tyre\tyre_server\src/py/main.py 39ff765bee3711ec9fcc3c2c30f806bd eyJ0eXJlX29yZGVyIjoxLCJhbGdvcml0aG0xIjowLCJ0b3BfeCI6IjExMSIsInRvcF95IjoiMTExIiwidG9wX3dpZHRoIjoiMTExIiwidG9wX2hlaWdodCI6IjExMSIsImJvdHRvbV94IjoiMTExIiwiYm90dG9tX3kiOiIxMTEiLCJib3R0b21fd2lkdGgiOiIxMTEiLCJib3R0b21faGVpZ2h0IjoiMTExIiwiYWxnb3JpdGhtMiI6WyJhMCIsImIwIiwiYjEiLCJiMiJdLCJjaGVja190eXBlIjowfQ==
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\tyre\tyre_server\src\py\main.py", line 40, in <module>
+    with open(filePath, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'imgs/qx/original/39ff765bee3711ec9fcc3c2c30f806bd.bmp'
+
+[2022-06-17T20:18:43.678] [ERROR] 算法模块执行异常: Error: Command failed: python C:\Users\DELL\Desktop\tyre\tyre_server\src/py/main.py a01f6396ee3711eca2e63c2c30f806bd eyJ0eXJlX29yZGVyIjoxLCJhbGdvcml0aG0xIjowLCJ0b3BfeCI6IjExMSIsInRvcF95IjoiMTExIiwidG9wX3dpZHRoIjoiMTExIiwidG9wX2hlaWdodCI6IjExMSIsImJvdHRvbV94IjoiMTExIiwiYm90dG9tX3kiOiIxMTEiLCJib3R0b21fd2lkdGgiOiIxMTEiLCJib3R0b21faGVpZ2h0IjoiMTExIiwiYWxnb3JpdGhtMiI6WyJhMCIsImIwIiwiYjEiLCJiMiJdLCJjaGVja190eXBlIjowfQ==
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\tyre\tyre_server\src\py\main.py", line 41, in <module>
+    with open(filePath, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\DELL\\Desktop\\tyre\\tyre_server\\src\\py\\main.py../../imgs/qx/original/a01f6396ee3711eca2e63c2c30f806bd.bmp'
+
+[2022-06-17T20:18:46.473] [ERROR] 算法模块执行异常: Error: Command failed: python C:\Users\DELL\Desktop\tyre\tyre_server\src/py/main.py a1d047dfee3711ecb5fe3c2c30f806bd eyJ0eXJlX29yZGVyIjoxLCJhbGdvcml0aG0xIjowLCJ0b3BfeCI6IjExMSIsInRvcF95IjoiMTExIiwidG9wX3dpZHRoIjoiMTExIiwidG9wX2hlaWdodCI6IjExMSIsImJvdHRvbV94IjoiMTExIiwiYm90dG9tX3kiOiIxMTEiLCJib3R0b21fd2lkdGgiOiIxMTEiLCJib3R0b21faGVpZ2h0IjoiMTExIiwiYWxnb3JpdGhtMiI6WyJhMCIsImIwIiwiYjEiLCJiMiJdLCJjaGVja190eXBlIjowfQ==
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\tyre\tyre_server\src\py\main.py", line 41, in <module>
+    with open(filePath, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\DELL\\Desktop\\tyre\\tyre_server\\src\\py\\main.py../../imgs/qx/original/a1d047dfee3711ecb5fe3c2c30f806bd.bmp'
+
+[2022-06-17T20:19:06.071] [ERROR] socket连接异常: Error: read ECONNRESET undefined
+[2022-06-17T20:19:10.247] [ERROR] 算法模块执行异常: Error: Command failed: python C:\Users\DELL\Desktop\tyre\tyre_server\src/py/main.py afe88245ee3711ec86093c2c30f806bd eyJ0eXJlX29yZGVyIjoxLCJhbGdvcml0aG0xIjowLCJ0b3BfeCI6IjExMSIsInRvcF95IjoiMTExIiwidG9wX3dpZHRoIjoiMTExIiwidG9wX2hlaWdodCI6IjExMSIsImJvdHRvbV94IjoiMTExIiwiYm90dG9tX3kiOiIxMTEiLCJib3R0b21fd2lkdGgiOiIxMTEiLCJib3R0b21faGVpZ2h0IjoiMTExIiwiYWxnb3JpdGhtMiI6WyJhMCIsImIwIiwiYjEiLCJiMiJdLCJjaGVja190eXBlIjowfQ==
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\tyre\tyre_server\src\py\main.py", line 41, in <module>
+    with open(filePath, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\DELL\\Desktop\\tyre\\tyre_server\\src\\py\\main.py../../imgs/qx/original/afe88245ee3711ec86093c2c30f806bd.bmp'
+
+[2022-06-17T20:21:17.558] [ERROR] 算法模块执行异常: Error: Command failed: python C:\Users\DELL\Desktop\tyre\tyre_server\src/py/main.py fbe0d542ee3711eca8b63c2c30f806bd eyJ0eXJlX29yZGVyIjoxLCJhbGdvcml0aG0xIjowLCJ0b3BfeCI6IjExMSIsInRvcF95IjoiMTExIiwidG9wX3dpZHRoIjoiMTExIiwidG9wX2hlaWdodCI6IjExMSIsImJvdHRvbV94IjoiMTExIiwiYm90dG9tX3kiOiIxMTEiLCJib3R0b21fd2lkdGgiOiIxMTEiLCJib3R0b21faGVpZ2h0IjoiMTExIiwiYWxnb3JpdGhtMiI6WyJhMCIsImIwIiwiYjEiLCJiMiJdLCJjaGVja190eXBlIjowfQ==
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\tyre\tyre_server\src\py\main.py", line 42, in <module>
+    with open(filePath, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\DELL/imgs/qx/original/fbe0d542ee3711eca8b63c2c30f806bd.bmp'
+
+[2022-06-17T20:22:31.250] [ERROR] socket连接异常: Error: read ECONNRESET undefined
+[2022-06-17T20:22:33.269] [ERROR] 算法模块执行异常: Error: Command failed: python C:\Users\DELL\Desktop\tyre\tyre_server\src/py/main.py 29e0b599ee3811ecbfd73c2c30f806bd eyJ0eXJlX29yZGVyIjoxLCJhbGdvcml0aG0xIjowLCJ0b3BfeCI6IjExMSIsInRvcF95IjoiMTExIiwidG9wX3dpZHRoIjoiMTExIiwidG9wX2hlaWdodCI6IjExMSIsImJvdHRvbV94IjoiMTExIiwiYm90dG9tX3kiOiIxMTEiLCJib3R0b21fd2lkdGgiOiIxMTEiLCJib3R0b21faGVpZ2h0IjoiMTExIiwiYWxnb3JpdGhtMiI6WyJhMCIsImIwIiwiYjEiLCJiMiJdLCJjaGVja190eXBlIjowfQ==
+  File "C:\Users\DELL\Desktop\tyre\tyre_server\src\py\main.py", line 36
+    checkType = algoParams['check_type']
+    ^
+SyntaxError: invalid syntax
+
+[2022-06-17T20:23:00.141] [ERROR] socket连接异常: Error: read ECONNRESET undefined
+[2022-06-17T20:23:09.490] [ERROR] 算法模块执行异常: Error: Command failed: python C:\Users\DELL\Desktop\tyre\tyre_server\src/py/main.py 3e8c3af2ee3811ecb1273c2c30f806bd eyJ0eXJlX29yZGVyIjoxLCJhbGdvcml0aG0xIjowLCJ0b3BfeCI6IjExMSIsInRvcF95IjoiMTExIiwidG9wX3dpZHRoIjoiMTExIiwidG9wX2hlaWdodCI6IjExMSIsImJvdHRvbV94IjoiMTExIiwiYm90dG9tX3kiOiIxMTEiLCJib3R0b21fd2lkdGgiOiIxMTEiLCJib3R0b21faGVpZ2h0IjoiMTExIiwiYWxnb3JpdGhtMiI6WyJhMCIsImIwIiwiYjEiLCJiMiJdLCJjaGVja190eXBlIjowfQ==
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\tyre\tyre_server\src\py\main.py", line 42, in <module>
+    with open(filePath, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\DELL\\Desktop\\tyre/imgs/qx/original/3e8c3af2ee3811ecb1273c2c30f806bd.bmp'
+
+[2022-06-17T20:23:54.914] [ERROR] socket连接异常: Error: read ECONNRESET undefined

@@ -11,6 +11,7 @@ import time
 import json
 import base64
 import random
+import os
 
 
 # 模拟执行任务所耗时间，后续将此语句删掉
@@ -31,11 +32,12 @@ algoParams = json.loads((base64.b64decode(paramsBytes)).decode('ascii'))
 # imgs目录下有nwc和qx两个目录，其中nwc存储内外侧检测图像，qx中存储缺陷检测图像
 # 由于内外侧检测原始图像和结果图像相同，所以无子目录
 # qx目录下的original目录存储原始图像，result目录存储检测后的缺陷标记图像
+dirname = os.path.abspath(os.path.join(os.getcwd()))
 checkType = algoParams['check_type']
 if int(checkType) == 0:
-  filePath = 'imgs/qx/original/' + fileName + '.bmp'
+  filePath = dirname + '/tyre_server/imgs/qx/original/' + fileName + '.bmp'
 else:
-  filePath = 'imgs/nwc/' + fileName + '.jpg'
+  filePath = dirname + '/tyre_server/imgs/nwc/' + fileName + '.jpg'
 
 with open(filePath, 'rb') as f:
   img = f.read()
@@ -76,7 +78,7 @@ else:
 # 检测完毕后，将结果图像写入对应目录中，检测模式为内外侧检测时不需要存储结果图像
 # 仅将检测出异常的图像写入文件
 if int(checkType) == 0 and result['res'] == 0:
-  filePath = 'imgs/qx/result/' + fileName + '.bmp'
+  filePath = dirname + '/tyre_server/imgs/qx/result/' + fileName + '.bmp'
 
 
 with open(filePath, 'wb') as f:

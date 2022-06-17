@@ -85,11 +85,11 @@ QCheckBox::indicator {
 }
 
 QCheckBox::indicator:unchecked {
-  image: url('tyre_client/static/icons/unchecked.svg')
+  image: url('../../static/icons/unchecked.svg')
 }
 
 QCheckBox::indicator:checked {
-  image: url('tyre_client/static/icons/checked.svg')
+  image: url('../../static/icons/checked.svg')
 }
 
 QComboBox::drop-down {
@@ -102,7 +102,7 @@ QComboBox::down-arrow {
   padding: 0;
   width: 16px;
   background: transparent;
-  image: url('tyre_client/static/icons/arrow-down.svg')
+  image: url('../../static/icons/arrow-down.svg')
 }
 
 QComboBox:hover {
